@@ -1,0 +1,10 @@
+[
+  {
+    "latitude": 53.12,
+    "longitude": 18.0,
+    "receive_time": "2022-01-31 01:12:17.583",
+    "event_type": null,
+    "sideNumber": "TEST",
+    "gps_status": 2
+  }
+]
